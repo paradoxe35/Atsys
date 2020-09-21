@@ -1,0 +1,4 @@
+pip install Flask
+pip install flask-restplus
+pip install flask-restful
+pip install SQLAlchemy
